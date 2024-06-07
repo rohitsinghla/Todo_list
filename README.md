@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+this is only a React.js Portfolio Todo_list
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
